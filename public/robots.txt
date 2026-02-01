@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://grizzled-hollow-gerbil-7vkqes.teleporthq.app/sitemap.xml

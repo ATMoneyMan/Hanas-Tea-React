@@ -1,0 +1,21 @@
+.home-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.home-container6 {
+  display: none;
+}
+ 
+.home-container7 {
+  display: contents;
+}
+ 
+.home-container8 {
+  display: none;
+}
+ 
+.home-container9 {
+  display: contents;
+}
